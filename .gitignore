@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+corpus/
+corpus_lines.jsonl
+*.log
+.DS_Store
+.venv/
+quality_lines.jsonl
+quality_stats.json
+build_quality.py
+exp3.py
+simulate3.py

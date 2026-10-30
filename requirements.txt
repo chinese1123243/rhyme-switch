@@ -1,0 +1,6 @@
+# 算法本体 rhyme_switch 零依赖，以下仅为实验与语料构建所需
+numpy>=1.24
+matplotlib>=3.6
+# 语料构建（可选）
+pypinyin>=0.50
+opencc-python-reimplemented>=1.1
